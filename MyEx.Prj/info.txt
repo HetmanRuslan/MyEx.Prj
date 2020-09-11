@@ -1,0 +1,4 @@
+5168|Mitsubishi Lancer X|Vasyluk Stepan|2008|
+1111|BMW X3|Kupchinskiy Yura |2001|
+0263|Wolksvagen golf 4|Pauk Orest|2004|
+2184|VAZ 2109|Menlnyk Havrylo|1989|
